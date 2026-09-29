@@ -1,0 +1,6 @@
+{
+  "name": "Parvus Space | Private Digital Architecture",
+  "description": "Estúdio de alta engenharia de software e arquitetura digital de conversão para clínicas médicas e odontológicas de altíssimo padrão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
